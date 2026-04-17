@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "417770551104",
+    "firebase_url": "https://pizza-lovers39-default-rtdb.firebaseio.com",
+    "project_id": "pizza-lovers39",
+    "storage_bucket": "pizza-lovers39.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417770551104:android:9a329367817535d3f16ca5",
+        "android_client_info": {
+          "package_name": "com.jasleen.pizzalovers39"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417770551104-4a074j3m628eskf2cst3re0uf1cmuhmj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jasleen.pizzalovers39",
+            "certificate_hash": "89f2b9c402696d60924f112adc7089c6ef9f7c51"
+          }
+        },
+        {
+          "client_id": "417770551104-ktqclpij7ig7n0s5h1qpna5ri1simq43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg5Z7ONVJJfvv6i1y1IQIilKdhl1ADuIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417770551104-ktqclpij7ig7n0s5h1qpna5ri1simq43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
